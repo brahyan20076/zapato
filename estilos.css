@@ -1,0 +1,157 @@
+
+body, html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+   
+}
+#fondo-video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    max-height: 100%;
+    min-width: 100%;
+    z-index: -1;
+}
+
+
+
+
+
+.primera {
+    align-items: baseline;
+    margin: 0px;
+    color: white;
+}
+
+.icono {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.fecha {
+    margin: 0;
+    padding: 0;
+}
+
+.segunda {
+    color: white;
+}
+.tercera{
+    color: white;
+}
+
+.zapato {
+    margin-top: -170px;
+    
+    
+
+}
+
+.linea {
+    margin-top: -140px;
+    margin-left: 10px;
+}
+
+.zapatico {
+    display: flex;
+    align-items: baseline;
+
+}
+
+.zapatico2 {
+    padding: 0px 0px 16px 0px;
+}
+
+span {
+    color: #0D6EFD;
+    margin: 0px 0px 0px 220px;
+}
+
+.boton1{
+    background-color: #0D6EFD;
+    border: none;
+    padding: 15px;
+    color: white;
+    align-items: baseline;
+    width: 180px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+
+.jopito {
+    display: flex;
+    gap: 24%;
+}
+
+.corazon {
+    width: 50px;
+    height: 50px;
+}
+
+.nike{
+    background-color: #0D6EFD;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center; 
+}
+.nike2{
+    padding: 92% 30% ;
+    margin: 0;
+}
+.seccion2{
+    background:url(img/fondonike.jpg) center / 400px 940px no-repeat;
+    justify-content: center;
+   flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+.imgseccion2{
+    padding: 200px  0px;
+    margin: 0px 0px 0px 30px ;
+    font-size: 70PX;
+    color: white;
+    font-family: "Remachine Script", cursive;
+    font-size: 70px;
+    letter-spacing: 0.5px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+.boton{
+    font-size: 30px;
+    border: none;
+    padding: 15px;
+    color: red;
+    align-items: baseline;
+    width: 180px;
+    border-radius: 10px;
+    margin-left: 50px;
+    background-color: white;
+   
+}
+
+.boton:hover{
+    background-color: black;
+}
+.boton1:hover{
+    background-color: aqua;
+}
+.corasincito:hover{
+    background-color: red;
+    border-radius: 70px 70px 70px 70px;
+    padding: 0px 0px -10px -10px ;
+}
+
+
+
+
+
+
+
